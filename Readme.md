@@ -1,4 +1,10 @@
-﻿# Studi Kasus (Mukhamad Rizal Ilham (19.11.2802)
+﻿Nama    = Mukhamad Rizal Ilham
+
+NIM     = 19.11.2802
+
+
+
+# Studi Kasus (Mukhamad Rizal Ilham (19.11.2802)
 Aplikasi sederhana sesuai studi kasus yang diberikan dosen untuk memenuhi tugas UAS. Aplikasi ini berfungsi untuk simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 
 
